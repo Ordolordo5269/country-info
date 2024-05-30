@@ -1,0 +1,79 @@
+{
+  "United States": {
+    "officialName": "Estados Unidos de América",
+    "capital": "Washington, D.C.",
+    "population": "331 millones",
+    "officialLanguages": "Inglés",
+    "currency": "Dólar estadounidense (USD)",
+    "economy": {
+      "gdp": "21.43 billones USD",
+      "mainIndustries": "Tecnología, Finanzas, Salud",
+      "exports": "Aviones, Refinería de petróleo, Soja",
+      "imports": "Automóviles, Computadoras, Petróleo crudo",
+      "unemploymentRate": "6.7%",
+      "exchangeRate": "1 USD = 0.83 EUR"
+    },
+    "history": {
+      "importantEvents": "Independencia en 1776, Guerra Civil 1861-1865",
+      "independence": "4 de julio de 1776",
+      "notableLeaders": "George Washington, Abraham Lincoln, Franklin D. Roosevelt"
+    },
+    "government": {
+      "type": "República federal",
+      "headOfState": "Presidente",
+      "headOfGovernment": "Presidente",
+      "majorParties": "Demócrata, Republicano",
+      "judicialSystem": "Corte Suprema, Sistema de tribunales federales"
+    },
+    "internationalRelations": {
+      "organizations": "ONU, OTAN, OMC",
+      "treaties": "Acuerdo de París, T-MEC",
+      "embassies": "Presente en más de 170 países"
+    },
+    "society": {
+      "literacyRate": "99%",
+      "lifeExpectancy": "78.5 años",
+      "hdi": "0.926 (muy alto)",
+      "healthAndEducationSystems": "Sistemas de salud y educación avanzados"
+    }
+  },
+  "Canada": {
+    "officialName": "Canadá",
+    "capital": "Ottawa",
+    "population": "37.59 millones",
+    "officialLanguages": "Inglés, Francés",
+    "currency": "Dólar canadiense (CAD)",
+    "economy": {
+      "gdp": "1.64 billones USD",
+      "mainIndustries": "Petróleo, Minería, Servicios",
+      "exports": "Petróleo, Automóviles, Madera",
+      "imports": "Máquinas, Vehículos, Plástico",
+      "unemploymentRate": "8.5%",
+      "exchangeRate": "1 CAD = 0.79 USD"
+    },
+    "history": {
+      "importantEvents": "Confederación en 1867, Estatuto de Westminster 1931",
+      "independence": "1 de julio de 1867",
+      "notableLeaders": "Sir John A. Macdonald, Pierre Trudeau"
+    },
+    "government": {
+      "type": "Monarquía parlamentaria federal",
+      "headOfState": "Reina",
+      "headOfGovernment": "Primer Ministro",
+      "majorParties": "Liberal, Conservador, NDP",
+      "judicialSystem": "Corte Suprema, Sistema de tribunales federales"
+    },
+    "internationalRelations": {
+      "organizations": "ONU, OTAN, G7",
+      "treaties": "T-MEC, Acuerdo de París",
+      "embassies": "Presente en más de 100 países"
+    },
+    "society": {
+      "literacyRate": "99%",
+      "lifeExpectancy": "82.3 años",
+      "hdi": "0.929 (muy alto)",
+      "healthAndEducationSystems": "Sistema de salud universal, Educación pública fuerte"
+    }
+  }
+  // Agrega más países aquí
+}
